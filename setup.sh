@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 set -o emacs
 
 echo -e "\e[33mSetup the multiple Neovim in your computer\e[0m"
@@ -5,9 +7,9 @@ echo -e "\e[33mInstalling the NVchad...\e[0m"
 
 git clone https://github.com/NvChad/NvChad ~/.config/NVchad
 
-echo -e "\e[33mInstalling the Lasyvim...\e[0m"
+echo -e "\e[33mInstalling the Lazyvim...\e[0m"
 
-git clone https://github.com/LazyVim/starter ~/.config/Lasyvim
+git clone https://github.com/LazyVim/starter ~/.config/Lazyvim
 
 echo -e "\e[33mInstalling the Astrovim...\e[0m"
 
