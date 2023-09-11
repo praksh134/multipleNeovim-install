@@ -13,7 +13,7 @@ easy installing for users to use nvims command use multiple neovim
 
 ### Just copy and paste in terminal
 ```
-https://github.com/praksh134/multipleNeovim-install.git
+git clone https://github.com/praksh134/multipleNeovim-install.git
 chmod +x setup.sh
 ./setup.sh
 ```
