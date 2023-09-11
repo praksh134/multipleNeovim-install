@@ -25,8 +25,6 @@ git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/Astrovim
 
 echo -e "\e[33mSetup the mnvim command...\e[0m"
 
-#!/bin/bash
-
 # Add aliases and functions to .bashrc
 echo 'alias nvim-chad="NVIM_APPNAME=NVchad nvim"' >> ~/.bashrc
 echo 'alias nvim-astro="NVIM_APPNAME=Astrovim nvim"' >> ~/.bashrc
