@@ -3,6 +3,14 @@
 set -o emacs
 
 echo -e "\e[33mSetup the multiple Neovim in your computer\e[0m"
+
+# Check if Neovim is installed
+if ! command -v nvim &> /dev/null; then
+    echo "Neovim is not installed. Please install Neovim and run this setup script again."
+    exit 1
+fi
+
+
 echo -e "\e[33mInstalling the NVchad...\e[0m"
 
 git clone https://github.com/NvChad/NvChad ~/.config/NVchad
