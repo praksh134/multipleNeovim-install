@@ -10,8 +10,7 @@ easy installing for users to use nvims command use multiple neovim
 
 ### Note: This foe only linux Ubuntu/Debian
 ## To install mnvim command
-
-### Just copy and paste in terminal
+* Just copy and paste in terminal
 ```
 git clone https://github.com/praksh134/multipleNeovim-install.git
 cd multipleNeovim-install
