@@ -47,3 +47,4 @@ source ~/.bashrc
 
 echo -e "\e[32mSetup is completed\e[0m"
 echo -e "Type \e[32mmnvim\e[0m to use the command"
+
