@@ -1,5 +1,5 @@
 # multipleNeovim-install
-easy installing for users to use nvims command use multiple neovim
+To use easily multiple neovim using "mnvim" command for bash
 
 ## Usage
 
@@ -8,7 +8,13 @@ easy installing for users to use nvims command use multiple neovim
 * Fuzzy Finder
 * Neovim
 
-### Note: This foe only linux Ubuntu/Debian
+## installed with
+* NVchad
+* Lasyvim
+* Astrovim 
+
+## note: only for bash users.
+### Note: This for only linux.
 ## To install mnvim command
 * Just copy and paste in your terminal
 ```
@@ -17,3 +23,5 @@ cd multipleNeovim-install
 chmod +x setup.sh
 ./setup.sh
 ```
+
+### Now type just "mnvim" to use.

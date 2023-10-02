@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-
+#
 set -o emacs
 
 echo -e "\e[33mSetup the multiple Neovim in your computer\e[0m"
@@ -10,7 +10,7 @@ if ! command -v nvim &> /dev/null; then
     exit 1
 fi
 
-
+#installing the multiple neovims 
 echo -e "\e[33mInstalling the NVchad...\e[0m"
 
 git clone https://github.com/NvChad/NvChad ~/.config/NVchad
@@ -23,6 +23,8 @@ echo -e "\e[33mInstalling the Astrovim...\e[0m"
 
 git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/Astrovim
 
+
+#paste into .bashrc file
 echo -e "\e[33mSetup the mnvim command...\e[0m"
 
 # Add aliases and functions to .bashrc
