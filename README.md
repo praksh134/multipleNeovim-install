@@ -3,6 +3,9 @@ To use easily multiple neovim using "mnvim" command for bash
 
 ## Usage
 
+Use of **mnvim** command.
+
+![[Screenshot from 2023-10-14 15-51-19.png]]
 
 ## Requirments
 * Fuzzy Finder
