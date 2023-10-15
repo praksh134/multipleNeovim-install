@@ -1,9 +1,6 @@
 # multipleNeovim-install
-<<<<<<< HEAD
 To use easily multiple neovim using "mnvim" command for bash
-=======
 easy installing for users to use mnvim command use multiple neovim
->>>>>>> b1ffd12 (just a modify)
 
 ## Usage
 
